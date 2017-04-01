@@ -14,7 +14,7 @@ Notes based on the [Acquia Certified Drupal 8 Developer Study Guide](https://acq
   - 2.4 - Blocks
   - 2.5 - Menus
   - 2.6 - Views
-  - 2.7 - Configuration Management
+  - [2.7 - Configuration Management](2-site-building/2.7-configuration-management.md)
   - 2.8 - Internationalization
   - 2.9 - Web Services
 
