@@ -18,7 +18,7 @@ Disclaimer: This is not officially related to the Acquia certification process. 
   - 2.6 - Views
   - 2.7 - Configuration Management
   - 2.8 - Internationalization
-  - 2.9 - Web Services
+  - 2.9 - [Web Services](2-site-building/2.9-web-services.md)
 
 3. [Front End Development (Theming)](3-front-end-development)
   - 3.1 - Creating Themes/Subthemes
