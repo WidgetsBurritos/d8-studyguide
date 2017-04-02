@@ -16,7 +16,7 @@ Notes based on the [Acquia Certified Drupal 8 Developer Study Guide](https://acq
   - 2.6 - Views
   - 2.7 - Configuration Management
   - 2.8 - Internationalization
-  - 2.9 - Web Services
+  - 2.9 - [Web Services](2-site-building/2.9-web-services.md)
 
 3. [Front End Development (Theming)](3-front-end-development)
   - 3.1 - Creating Themes/Subthemes
