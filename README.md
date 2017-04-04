@@ -6,7 +6,7 @@ Disclaimer: This is not officially related to the Acquia certification process. 
 
 1. [Fundamental Web Development Concepts](1-fundamentals)
   - 1.1 - HTML/CSS
-  - 1.2 - Javascript/jQuery
+  - [1.2 - Javascript/jQuery](1-fundamentals/1.2-javascript-jquery.md)
   - 1.3 - git
 
 2. [Site Building](2-site-building)
