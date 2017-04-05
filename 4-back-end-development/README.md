@@ -29,7 +29,7 @@
   - [Services and Dependency Injection](4.4-essential-apis-services.md)
   - [Events](4.4-essential-apis-events.md)
   - [Update API](4.4-essential-apis-update.md)
-- 4.5 - Coding Standards
+- [4.5 - Coding Standards](4.5-coding-standards.md)
 - [4.6 - Performance](4.6-performance.md)
   - [CSS/JS Aggregation](4.6-performance#cssjs-aggregation)
   - [Cache Tags](4.6-performance#cache-tags)

@@ -38,6 +38,6 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
   - [4.2 - Custom Modules](4-back-end-development/4.2-custom-modules.md)
   - 4.3 - Data Storage
   - [4.4 - Essential APIs](4-back-end-development/4.4-essential-apis.md)
-  - 4.5 - Coding Standards
+  - [4.5 - Coding Standards](4-back-end-development/4.5-coding-standards.md)
   - [4.6 - Performance](4-back-end-development/4.6-performance.md)
   - [4.7 - Security](4-back-end-development/4.7-security.md)
