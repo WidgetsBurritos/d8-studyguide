@@ -16,9 +16,9 @@ Disclaimer: This is not officially related to the Acquia certification process. 
   - 2.4 - Blocks
   - 2.5 - Menus
   - 2.6 - Views
-  - 2.7 - [Configuration Management](2-site-building/2.7-configuration-management.md)
-  - 2.8 - Internationalization
-  - 2.9 - [Web Services](2-site-building/2.9-web-services.md)
+  - [2.7 - Configuration Management](2-site-building/2.7-configuration-management.md)
+  - [2.8 - Multilingual](2-site-building/2.8-multilingual.md)
+  - [2.9 - Web Services](2-site-building/2.9-web-services.md)
 
 3. [Front End Development (Theming)](3-front-end-development)
   - 3.1 - Creating Themes/Subthemes
