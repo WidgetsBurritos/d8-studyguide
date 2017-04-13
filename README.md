@@ -23,7 +23,7 @@ Disclaimer: This is not officially related to the Acquia certification process. 
 3. [Front End Development (Theming)](3-front-end-development)
   - 3.1 - Creating Themes/Subthemes
   - 3.2 - Theming Concepts
-  - 3.3 - Twig Syntax
+  - 3.3 - [Twig Syntax](3-front-end-development/3.3-twig-syntax.md)
   - 3.4 - Twig Templates
   - 3.5 - Preprocessors
 
