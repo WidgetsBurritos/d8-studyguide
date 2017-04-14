@@ -34,4 +34,4 @@ Disclaimer: This is not officially related to the Acquia certification process. 
   - 4.4 - Essential APIs
   - 4.5 - Coding Standards
   - 4.6 - Performance
-  - 4.7 - Security
+  - [4.7 - Security](4-back-end-development/4.7-security.md)
