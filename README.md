@@ -4,12 +4,12 @@ Notes based on the [Acquia Certified Drupal 8 Developer Study Guide](https://acq
 
 Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important when reviewing the study guide.
 
-1. [Fundamental Web Development Concepts](1-fundamentals)
+[1. Fundamental Web Development Concepts](1-fundamentals)
   - 1.1 - HTML/CSS
   - [1.2 - Javascript/jQuery](1-fundamentals/1.2-javascript-jquery.md)
   - 1.3 - git
 
-2. [Site Building](2-site-building)
+[2. Site Building](2-site-building)
   - 2.1 - Content Types
   - 2.2 - Display Modes
   - 2.3 - Taxonomies
@@ -20,18 +20,18 @@ Disclaimer: This is not officially related to the Acquia certification process. 
   - [2.8 - Multilingual](2-site-building/2.8-multilingual.md)
   - [2.9 - Web Services](2-site-building/2.9-web-services.md)
 
-3. [Front End Development (Theming)](3-front-end-development)
+[3. Front End Development (Theming)](3-front-end-development)
   - 3.1 - Creating Themes/Subthemes
   - 3.2 - Theming Concepts
-  - 3.3 - [Twig Syntax](3-front-end-development/3.3-twig-syntax.md)
+  - [3.3 - Twig Syntax](3-front-end-development/3.3-twig-syntax.md)
   - 3.4 - Twig Templates
   - 3.5 - Preprocessors
 
-4. [Back End Development (Coding)](4-back-end-development)
+[4. Back End Development (Coding)](4-back-end-development)
   - 4.1 - Core/OOP
   - 4.2 - Custom Modules
   - 4.3 - Data Storage
-  - 4.4 - Essential APIs
+  - [4.4 - Essential APIs](4-back-end-development/4.4-essential-apis.md)
   - 4.5 - Coding Standards
   - 4.6 - Performance
   - [4.7 - Security](4-back-end-development/4.7-security.md)
