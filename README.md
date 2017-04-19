@@ -21,11 +21,11 @@ Notes based on the [Acquia Certified Drupal 8 Developer Study Guide](https://acq
   - [2.9 - Web Services](2-site-building/2.9-web-services.md)
 
 [3. Front End Development (Theming)](3-front-end-development)
-  - 3.1 - Creating Themes/Subthemes
-  - 3.2 - Theming Concepts
+  - [3.1 - Creating Themes and Subthemes](3-front-end-development/3.1-creating-themes.md)
+  - [3.2 - Theming Concepts](3-front-end-development/3.2-theming-concepts.md)
   - [3.3 - Twig Syntax](3-front-end-development/3.3-twig-syntax.md)
-  - 3.4 - Twig Templates
-  - 3.5 - Preprocessors
+  - [3.4 - Overriding Twig Templates](3-front-end-development/3.4-twig-templates.md)
+  - [3.5 - Preprocessors](3-front-end-development/3.5-preprocessors.md)
 
 [4. Back End Development (Coding)](4-back-end-development)
   - [4.1 - Object-Oriented Programming](4-back-end-development/4.1-oop.md)
