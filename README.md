@@ -29,7 +29,7 @@ Disclaimer: This is not officially related to the Acquia certification process. 
 
 [4. Back End Development (Coding)](4-back-end-development)
   - 4.1 - Core/OOP
-  - 4.2 - Custom Modules
+  - [4.2 - Custom Modules](4-back-end-development/4.2-custom-modules.md)
   - 4.3 - Data Storage
   - [4.4 - Essential APIs](4-back-end-development/4.4-essential-apis.md)
   - 4.5 - Coding Standards
