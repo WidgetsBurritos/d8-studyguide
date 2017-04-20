@@ -1,6 +1,13 @@
 # Back end development (coding)
 
-- 4.1 - Core/OOP
+- [4.1 - Object-Oriented Programming](4.1-oop.md)
+  - [Summary](4.1-oop.md#summary)
+  - [OOP File Structure](4.1-oop.md#oop-file-structure)
+  - [Factory Pattern](4.1-oop.md#factory-pattern)
+  - [PHP Namespaces](4.1-oop.md#php-namespaces)
+  - [Namespace Resolution](4.1-oop.md#namespace-resolution)
+  - [Views and Controllers](4.1-oop.md#views-and-controllers)
+  - [Additional Resources](4.1-oop.md#additional-resources)
 - [4.2 - Custom Modules](4.2-custom-modules.md)
   - [Summary](4.2-custom-modules.md#summary)
   - [Create Module Skeleton](4.2-custom-modules.md#create-module-skeleton)

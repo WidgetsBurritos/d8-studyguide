@@ -2,7 +2,7 @@
 
 Notes based on the [Acquia Certified Drupal 8 Developer Study Guide](https://acquia-academy.gitbooks.io/study-guide-acquia-certified-drupal-8-developer/content/study-guide.html) and other resources.
 
-Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important when reviewing the study guide.
+*Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
 
 [1. Fundamental Web Development Concepts](1-fundamentals)
   - 1.1 - HTML/CSS
@@ -28,7 +28,7 @@ Disclaimer: This is not officially related to the Acquia certification process. 
   - 3.5 - Preprocessors
 
 [4. Back End Development (Coding)](4-back-end-development)
-  - 4.1 - Core/OOP
+  - [4.1 - Object-Oriented Programming](4-back-end-development/4.1-oop.md)
   - [4.2 - Custom Modules](4-back-end-development/4.2-custom-modules.md)
   - 4.3 - Data Storage
   - [4.4 - Essential APIs](4-back-end-development/4.4-essential-apis.md)
