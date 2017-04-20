@@ -1,7 +1,13 @@
 # Back end development (coding)
 
 - 4.1 - Core/OOP
-- 4.2 - Custom Modules
+- [4.2 - Custom Modules](4.2-custom-modules.md)
+  - [Summary](4.2-custom-modules.md#summary)
+  - [Create Module Skeleton](4.2-custom-modules.md#create-module-skeleton)
+  - [Adding a Controller](4.2-custom-modules.md#adding-a-controller)
+  - [Adding a Route](4.2-custom-modules.md#adding-a-route)
+  - [Adding a Menu Link](4.2-custom-modules.md#adding-a-menu-link)
+  - [Additional Resources](4.2-custom-modules.md#additional-resources)
 - 4.3 - Data Storage
 - [4.4 - Essential APIs](4.4-essential-apis.md)
   - [Plugin API](4.4-essential-apis-plugin.md)
