@@ -29,7 +29,12 @@
   - [Services and Dependency Injection](4.4-essential-apis-services.md)
   - [Update API](4.4-essential-apis-update.md)
 - 4.5 - Coding Standards
-- 4.6 - Performance
+- [4.6 - Performance](4.6-performance.md)
+  - [CSS/JS Aggregation](4.6-performance#cssjs-aggregation)
+  - [Cache Tags](4.6-performance#cache-tags)
+  - [Cache Contexts](4.6-performance#cache-contexts)
+  - [Core Performance Modules](4.6-performance#core-performance-modules)
+  - [Additional Resources](4.6-performance#additional-resources)
 - [4.7 - Security](4.7-security.md)
   - [Sanitizing Input](4.7-security.md#sanitizing-input)
   - [Generated *.php Files](4.7-security.md#generated-php-files)
