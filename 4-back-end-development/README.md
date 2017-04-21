@@ -1,7 +1,6 @@
 # Back end development (coding)
 
 - [4.1 - Object-Oriented Programming](4.1-oop.md)
-  - [Summary](4.1-oop.md#summary)
   - [OOP File Structure](4.1-oop.md#oop-file-structure)
   - [Factory Pattern](4.1-oop.md#factory-pattern)
   - [PHP Namespaces](4.1-oop.md#php-namespaces)
@@ -9,7 +8,6 @@
   - [Views and Controllers](4.1-oop.md#views-and-controllers)
   - [Additional Resources](4.1-oop.md#additional-resources)
 - [4.2 - Custom Modules](4.2-custom-modules.md)
-  - [Summary](4.2-custom-modules.md#summary)
   - [Create Module Skeleton](4.2-custom-modules.md#create-module-skeleton)
   - [Adding a Controller](4.2-custom-modules.md#adding-a-controller)
   - [Adding a Route](4.2-custom-modules.md#adding-a-route)
@@ -33,7 +31,6 @@
 - 4.5 - Coding Standards
 - 4.6 - Performance
 - [4.7 - Security](4.7-security.md)
-  - [Summary](4.7-security.md#summary)
   - [Sanitizing Input](4.7-security.md#sanitizing-input)
   - [Generated *.php Files](4.7-security.md#generated-php-files)
   - [File Permissions](4.7-security.md#file-permissions)
