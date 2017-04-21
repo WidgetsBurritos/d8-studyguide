@@ -7,14 +7,13 @@
 - 2.5 - Menus
 - 2.6 - Views
 - [2.7 - Configuration Management](2.7-configuration-management.md)
-  - [Summary](2.7-configuration-management.md#summary)
   - [Exporting Configurations](2.7-configuration-management.md#exporting-configurations)
   - [Viewing Configuration Changes](2.7-configuration-management.md#viewing-configuration-changes)
   - [Importing Configurations](2.7-configuration-management.md#importing-configurations)
   - [Drush](2.7-configuration-management.md#drush)
   - [Configuration Storage](2.7-configuration-management.md#configuration-storage)
+  - [Additional Resources](2.7-configuration-management.md#additional-resources)
 - [2.8 - Multilingual](2.8-multilingual.md)
-  - [Summary](2.8-multilingual.md#summary)
   - [Language Module](2.8-multilingual.md#language-module)
   - [Interface Translation Module](2.8-multilingual.md#interface-translation-module)
   - [Content Translation Module](2.8-multilingual.md#content-translation-module)
