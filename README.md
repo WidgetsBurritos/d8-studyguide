@@ -33,5 +33,5 @@ Notes based on the [Acquia Certified Drupal 8 Developer Study Guide](https://acq
   - 4.3 - Data Storage
   - [4.4 - Essential APIs](4-back-end-development/4.4-essential-apis.md)
   - 4.5 - Coding Standards
-  - 4.6 - Performance
+  - [4.6 - Performance](4-back-end-development/4.6-performance.md)
   - [4.7 - Security](4-back-end-development/4.7-security.md)
