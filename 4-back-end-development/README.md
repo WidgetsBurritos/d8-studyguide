@@ -27,6 +27,7 @@
   - [Menu API](4.4-essential-apis-menu.md)
   - [Render API](4.4-essential-apis-render.md)
   - [Services and Dependency Injection](4.4-essential-apis-services.md)
+  - [Events](4.4-essential-apis-events.md)
   - [Update API](4.4-essential-apis-update.md)
 - 4.5 - Coding Standards
 - [4.6 - Performance](4.6-performance.md)
