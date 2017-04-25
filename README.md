@@ -2,6 +2,10 @@
 
 Notes based on the [Acquia Certified Drupal 8 Developer Study Guide](https://acquia-academy.gitbooks.io/study-guide-acquia-certified-drupal-8-developer/content/study-guide.html) and other resources.
 
+For the record, I officially passed my exam on 4/24/2017 at DrupalCon Baltimore. 
+
+There are still some sections still missing from the below documentation, but I will continue filling sections out to make a more complete study guide over the next few months. Feel free to open PRs, adding new info and correcting any mistakes you may find.
+
 *Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
 
 [1. Fundamental Web Development Concepts](1-fundamentals)
