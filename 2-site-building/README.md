@@ -6,7 +6,9 @@
   - [Field Types](2.1-content-types.md#field-types)
   - [Adding Fields to a Content Type](2.1-content-types.md#adding-fields-to-a-content-type)
   - [Additional Resources](2.1-content-types.md#additional-resources)
-- 2.2 - Display Modes
+- [2.2 - Display Modes](2-site-building/2.2-display-modes.md)
+  - [View Modes](2-site-building/2.2-display-modes.md#view-modes)
+  - [Form Modes](2-site-building/2.2-display-modes.md#form-modes)
 - 2.3 - Taxonomies
 - 2.4 - Blocks
 - 2.5 - Menus
