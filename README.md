@@ -2,7 +2,7 @@
 
 Notes based on the [Acquia Certified Drupal 8 Developer Study Guide](https://acquia-academy.gitbooks.io/study-guide-acquia-certified-drupal-8-developer/content/study-guide.html) and other resources.
 
-For the record, I officially passed my exam on 4/24/2017 at DrupalCon Baltimore. 
+For the record, I officially passed my exam on 4/24/2017 at DrupalCon Baltimore.
 
 There are still some sections still missing from the below documentation, but I will continue filling sections out to make a more complete study guide over the next few months. Feel free to open PRs, adding new info and correcting any mistakes you may find.
 
@@ -16,7 +16,7 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
   - 1.3 - git
 
 [2. Site Building](2-site-building)
-  - 2.1 - Content Types
+  - [2.1 - Content Types](2-site-building/2.1-content-types.md)
   - 2.2 - Display Modes
   - 2.3 - Taxonomies
   - 2.4 - Blocks
