@@ -6,6 +6,8 @@ For the record, I officially passed my exam on 4/24/2017 at DrupalCon Baltimore.
 
 There are still some sections still missing from the below documentation, but I will continue filling sections out to make a more complete study guide over the next few months. Feel free to open PRs, adding new info and correcting any mistakes you may find.
 
+It is highly recommended that you also read the [Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html) as much of the site building section (including the missing notes in this repo) covers what is in the user guide.
+
 *Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
 
 [1. Fundamental Web Development Concepts](1-fundamentals)
