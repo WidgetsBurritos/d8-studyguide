@@ -9,7 +9,7 @@
 - [2.2 - Display Modes](2-site-building/2.2-display-modes.md)
   - [View Modes](2-site-building/2.2-display-modes.md#view-modes)
   - [Form Modes](2-site-building/2.2-display-modes.md#form-modes)
-- 2.3 - Taxonomies
+- [2.3 - Taxonomies](2-site-building/2.3-taxonomies.md)
 - 2.4 - Blocks
 - 2.5 - Menus
 - 2.6 - Views
