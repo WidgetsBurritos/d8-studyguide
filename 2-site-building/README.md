@@ -1,6 +1,11 @@
 # Site Building
 
-- 2.1 - Content Types
+- [2.1 - Content Types](2.1-content-types.md)
+  - [Content Entities](2.1-content-types.md#content-entities)
+  - [Adding a Content Type](2.1-content-types.md#adding-a-content-type)
+  - [Field Types](2.1-content-types.md#field-types)
+  - [Adding Fields to a Content Type](2.1-content-types.md#adding-fields-to-a-content-type)
+  - [Additional Resources](2.1-content-types.md#additional-resources)
 - 2.2 - Display Modes
 - 2.3 - Taxonomies
 - 2.4 - Blocks

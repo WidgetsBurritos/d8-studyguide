@@ -11,9 +11,9 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
 *Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
 
 [1. Fundamental Web Development Concepts](1-fundamentals)
-  - 1.1 - HTML/CSS
+  - [1.1 - HTML/CSS](1-fundamentals/1.1-html-css.md)
   - [1.2 - Javascript/jQuery](1-fundamentals/1.2-javascript-jquery.md)
-  - 1.3 - git
+  - [1.3 - git](1-fundamentals/1.3-git.md)
 
 [2. Site Building](2-site-building)
   - [2.1 - Content Types](2-site-building/2.1-content-types.md)
