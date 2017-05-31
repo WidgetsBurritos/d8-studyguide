@@ -13,7 +13,9 @@
   - [Adding a Route](4.2-custom-modules.md#adding-a-route)
   - [Adding a Menu Link](4.2-custom-modules.md#adding-a-menu-link)
   - [Additional Resources](4.2-custom-modules.md#additional-resources)
-- 4.3 - Data Storage
+- [4.3 - Data Storage](4.3-data-storage.md)
+  - [Database Support](4.3-data-storage.md#database-support)
+  - [Additional Resources](4.3-data-storage.md#additional-resources)
 - [4.4 - Essential APIs](4.4-essential-apis.md)
   - [Plugin API](4.4-essential-apis-plugin.md)
   - [Block API](4.4-essential-apis-block.md)
