@@ -12,7 +12,18 @@
 - [2.3 - Taxonomies](2-site-building/2.3-taxonomies.md)
 - 2.4 - Blocks
 - 2.5 - Menus
-- 2.6 - Views
+- [2.6 - Views](2.6-views.md)
+  - [What Are Views](2.6-views.md#what-are-views)
+  - [Existing Views](2.6-views.md#existing-views)
+  - [Adding a New View](2.6-views.md#adding-a-new-view)
+  - [Displays](2.6-views.md#displays)
+  - [Format](2.6-views.md#format)
+  - [Filtering and Sorting](2.6-views.md#filtering-and-sorting)
+  - [Headers/Footers/No Results](2.6-views.md#headers-footers-no-results)
+  - [Pager](2.6-views.md#pager)
+  - [Language](2.6-views.md#language)
+  - [Advanced](2.6-views.md#advanced)
+  - [Additional Resources](2.6-views.md#additional-resources)
 - [2.7 - Configuration Management](2.7-configuration-management.md)
   - [Exporting Configurations](2.7-configuration-management.md#exporting-configurations)
   - [Viewing Configuration Changes](2.7-configuration-management.md#viewing-configuration-changes)
