@@ -21,7 +21,7 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
   - 2.3 - Taxonomies
   - 2.4 - Blocks
   - 2.5 - Menus
-  - 2.6 - Views
+  - [2.6 - Views](2-site-build/2.6-views.md)
   - [2.7 - Configuration Management](2-site-building/2.7-configuration-management.md)
   - [2.8 - Multilingual](2-site-building/2.8-multilingual.md)
   - [2.9 - Web Services](2-site-building/2.9-web-services.md)
