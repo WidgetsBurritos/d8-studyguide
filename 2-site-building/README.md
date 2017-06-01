@@ -10,6 +10,10 @@
   - [View Modes](2-site-building/2.2-display-modes.md#view-modes)
   - [Form Modes](2-site-building/2.2-display-modes.md#form-modes)
 - [2.3 - Taxonomies](2-site-building/2.3-taxonomies.md)
+  - [Adding a new vocabulary](2-site-building/2.3-taxonomies.md#adding-a-new-vocabulary)
+  - [Adding a Term reference](2-site-building/2.3-taxonomies.md#adding-a-term-reference)
+  - [Adding new terms to your vocabulary](2-site-building/2.3-taxonomies.md#adding-new-terms-to-your-vocabulary)
+  - [Free tagging](2-site-building/2.3-taxonomies.md#free-taggin)
 - 2.4 - Blocks
 - 2.5 - Menus
 - [2.6 - Views](2.6-views.md)
