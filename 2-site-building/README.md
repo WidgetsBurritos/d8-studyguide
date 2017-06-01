@@ -14,7 +14,11 @@
   - [Adding a Term reference](2-site-building/2.3-taxonomies.md#adding-a-term-reference)
   - [Adding new terms to your vocabulary](2-site-building/2.3-taxonomies.md#adding-new-terms-to-your-vocabulary)
   - [Free tagging](2-site-building/2.3-taxonomies.md#free-taggin)
-- 2.4 - Blocks
+- [2.4 - Blocks](2.4-blocks.md)
+  - [Block Management](2.4-blocks.md#block-management)
+  - [Block Visibility](2.4-blocks.md#block-visibility)
+  - [Block Placement](2.4-blocks.md#block-placement)
+  - [Additional Resources](2.4-blocks.md#additional-resources)
 - [2.5 - Menus](2.5-menus.md)
   - [Menu Management](2.5-menus.md#menu-management)
   - [Menu Placement](2.5-menus.md#menu-placement)

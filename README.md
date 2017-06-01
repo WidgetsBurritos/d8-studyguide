@@ -19,7 +19,7 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
   - [2.1 - Content Types](2-site-building/2.1-content-types.md)
   - [2.2 - Display Modes](2-site-building/2.2-display-modes.md)
   - [2.3 - Taxonomies](2-site-building/2.3-taxonomies.md)
-  - 2.4 - Blocks
+  - [2.4 - Blocks](2-site-building/2.4-blocks.md)
   - [2.5 - Menus](2-site-building/2.5-menus.md)
   - [2.6 - Views](2-site-build/2.6-views.md)
   - [2.7 - Configuration Management](2-site-building/2.7-configuration-management.md)
