@@ -15,7 +15,10 @@
   - [Adding new terms to your vocabulary](2-site-building/2.3-taxonomies.md#adding-new-terms-to-your-vocabulary)
   - [Free tagging](2-site-building/2.3-taxonomies.md#free-taggin)
 - 2.4 - Blocks
-- 2.5 - Menus
+- [2.5 - Menus](2.5-menus.md)
+  - [Menu Management](2.5-menus.md#menu-management)
+  - [Menu Placement](2.5-menus.md#menu-placement)
+  - [Additional Resources](2.5-menus.md#additional-resources)
 - [2.6 - Views](2.6-views.md)
   - [What Are Views](2.6-views.md#what-are-views)
   - [Existing Views](2.6-views.md#existing-views)
