@@ -12,5 +12,8 @@
   - [Drupal.behaviors](1.2-javascript-jquery.md#drupalbehaviors)
   - [Closures](1.2-javascript-jquery.md#closures)
   - [Additional Resources](1.2-javascript-jquery.md#additional-resources)
+- [1.3 - git](1.3-git.md)
 
-- 1.3 - git
+---
+
+##### [Next Page >>](1.1-html-css.md)
