@@ -24,3 +24,7 @@
 - [3.5 - Pre-processors](3.5-preprocessors.md)
   - [Preprocessing for Template Files](3.5-preprocessors.md#preprocessing-for-template-files)
   - [Additional Resources](3.5-preprocessors.md#additional-resources)
+
+  ---
+
+  ##### [Next Page >>](3.1-creating-themes.md)
