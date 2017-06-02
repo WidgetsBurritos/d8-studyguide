@@ -8,9 +8,14 @@ There are still some sections still missing from the below documentation, but I 
 
 It is highly recommended that you also read the [Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html) as much of the site building section (including the missing notes in this repo) covers what is in the user guide.
 
-*Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
+---
+
+### This study guide used in tandem with the 'Drupal 8 Certification Crash Course':
+**Presentation Slides:** https://docs.google.com/presentation/d/1kqcfqFGVuZrkSZ5KttbrEXMJKYJUcN2VJt_JnuO4Sso/edit?usp=sharing
 
 **PRs Welcome!**
+
+*Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
 
 ---
 
