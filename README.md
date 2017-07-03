@@ -17,6 +17,10 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
 
 *Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
 
+### Study Guide Success Stories
+Tyler Fahey - Passed exam 7/3/2017
+
+
 ---
 
 [1. Fundamental Web Development Concepts](1-fundamentals)
