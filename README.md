@@ -8,6 +8,10 @@ There are still some sections still missing from the below documentation, but I 
 
 It is highly recommended that you also read the [Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html) as much of the site building section (including the missing notes in this repo) covers what is in the user guide.
 
+
+## Graduates Of This Study Guide
+Tyler Fahey - Passed exam 7/3/2017 - 86% Overall Score
+
 ---
 
 ### This study guide used in tandem with the 'Drupal 8 Certification Crash Course':
