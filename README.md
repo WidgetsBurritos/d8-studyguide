@@ -19,6 +19,7 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
 
 ### Study Guide Success Stories
 Tyler Fahey - Passed exam 7/3/2017
+Adrianna Flores - Passed exam 8/12/2017
 
 
 ---
