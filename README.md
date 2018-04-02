@@ -18,12 +18,13 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
 *Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
 
 ### Study Guide Success Stories
-- David Porter - Passed exam 4/21/2017
-- David Stinemetze - Passed exam 4/24/2017
-- Jonathon Thompson - Passed exam 4/27/2017
-- Tyler Fahey - Passed exam 7/3/2017
-- Adrianna Flores - Passed exam 8/12/2017
-- Francesco Tuzzolino (Boes) - Passed exam 03/31/2018
+- [David Porter](https://certification.acquia.com/user/921060) - Passed exam 4/21/2017
+- [David Stinemetze](https://certification.acquia.com/user/1646806) - Passed exam 4/24/2017
+- [Jonathon Thompson](https://certification.acquia.com/user/1017464) - Passed exam 4/27/2017
+- [Tyler Fahey](https://certification.acquia.com/user/1647946) - Passed exam 7/3/2017
+- [Adrianna Flores](https://certification.acquia.com/user/1648371) - Passed exam 8/12/2017
+- [Francesco Tuzzolino (Boes)](https://certification.acquia.com/user/1651641) - Passed exam 03/31/2018
+- [Keith Bremner](https://certification.acquia.com/user/972476) - Passed exam 3/31/2018
 
 ---
 
