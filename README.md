@@ -23,6 +23,7 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
 - Jonathon Thompson - Passed exam 4/27/2017
 - Tyler Fahey - Passed exam 7/3/2017
 - Adrianna Flores - Passed exam 8/12/2017
+- Francesco Tuzzolino (Boes) - Passed exam 03/31/2018
 
 ---
 
