@@ -8,6 +8,9 @@ Feel free to open PRs, adding new info and correcting any mistakes you may find.
 
 It is highly recommended that you also read the [Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html) as much of the site building section (including the missing notes in this repo) covers what is in the user guide.
 
+**Update: 4/2/2018:**
+I'm presently studying for both the *Front End Specialist* and *Back End Specialist* exams and have started updating the documentation to go a bit more in depth. The material is all still relevant for the general developer exam, but may be a little more detailed than you need. But either way, I feel like it's important information to know regardless of whether or not that are asked on the certification exam.
+
 ---
 
 ### This study guide used in tandem with the 'Drupal 8 Certification Crash Course':
