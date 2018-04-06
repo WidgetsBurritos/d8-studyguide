@@ -26,6 +26,7 @@ I'm presently studying for both the *Front End Specialist* and *Back End Special
 - [Jonathon Thompson](https://certification.acquia.com/user/1017464) - Passed exam 4/27/2017
 - [Tyler Fahey](https://certification.acquia.com/user/1647946) - Passed exam 7/3/2017
 - [Adrianna Flores](https://certification.acquia.com/user/1648371) - Passed exam 8/12/2017
+- [Kimberly Kubali](https://certification.acquia.com/user/835896) - Passed exam 9/26/2017
 - [Francesco Tuzzolino (Boes)](https://certification.acquia.com/user/1651641) - Passed exam 03/31/2018
 - [Keith Bremner](https://certification.acquia.com/user/972476) - Passed exam 3/31/2018
 
