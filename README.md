@@ -11,7 +11,7 @@ It is highly recommended that you also read the [Drupal 8 User Guide](https://ww
 **Update: 4/2/2018:**
 I'm presently studying for both the *Front End Specialist* and *Back End Specialist* exams and have started updating the documentation to go a bit more in depth on certain topics. The material is all still relevant for the general developer exam, but may be a little more detailed than you need. Either way, I feel like it's important information to know regardless of whether or not it is asked on the certification exam.
 
-**Update: 4/9/2018**
+**Update: 4/9/2018:**
 I've successfully completed both the front end and back end exams. As to avoid giving anything specific away, I will say this study guide does have pretty decent coverage for both, but there are a few things missing. 
 
 On the front end, it's a bit important to familiarize yourself with some of the newer aspects of HTML5 if you came from a XHTML background. I'll also say just knowing about the breakpoint module isn't enough from a performance perspective. Also, it helps to know some of the more advanced features in Twig, even if you don't use them every day. I highly recommend reading [The Drupal 8 Theming Guide](https://sqndr.github.io/d8-theming-guide/index.html). It is a rather helpful resource and definitely proved to be beneficial to me. 
