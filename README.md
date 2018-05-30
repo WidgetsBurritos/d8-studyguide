@@ -21,7 +21,7 @@ On the backend, the best thing you can do is just build a module or two. We coul
 ---
 
 ### This study guide used in tandem with the 'Drupal 8 Certification Crash Course':
-**Presentation Slides:** https://docs.google.com/presentation/d/1kqcfqFGVuZrkSZ5KttbrEXMJKYJUcN2VJt_JnuO4Sso/edit?usp=sharing
+**Presentation Slides:** https://docs.google.com/presentation/d/1EJ1xMnnfd1Sdg8bNb08scNnOzramPlP_II5WtEPlrgk/edit?usp=sharing
 
 **PRs Welcome!**
 
