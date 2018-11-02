@@ -52,7 +52,7 @@ On the backend, the best thing you can do is just build a module or two. We coul
   - [2.3 - Taxonomies](2-site-building/2.3-taxonomies.md)
   - [2.4 - Blocks](2-site-building/2.4-blocks.md)
   - [2.5 - Menus](2-site-building/2.5-menus.md)
-  - [2.6 - Views](2-site-build/2.6-views.md)
+  - [2.6 - Views](2-site-building/2.6-views.md)
   - [2.7 - Configuration Management](2-site-building/2.7-configuration-management.md)
   - [2.8 - Multilingual](2-site-building/2.8-multilingual.md)
   - [2.9 - Web Services](2-site-building/2.9-web-services.md)
