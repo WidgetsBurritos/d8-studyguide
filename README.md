@@ -38,6 +38,7 @@ On the backend, the best thing you can do is just build a module or two. We coul
 - [Keith Bremner](https://certification.acquia.com/user/972476) - Passed exam 3/31/2018
 - [Bill Renk](https://certification.acquia.com/user/856371) - Passed exam 7/13/2018
 - [Mehul Shah](https://certification.acquia.com/user/1654391) - Passed exam 10/01/2018
+- [Tom Metcalfe](https://certification.acquia.com/user/1652801) - Grand Master 09/12/2018
 
 ---
 
