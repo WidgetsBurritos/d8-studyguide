@@ -28,20 +28,20 @@ On the backend, the best thing you can do is just build a module or two. We coul
 *Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
 
 ### Study Guide Success Stories
-- [David Porter](https://certification.acquia.com/user/921060) - Passed exam 4/21/2017
-- [David Stinemetze](https://certification.acquia.com/user/1646806) - Passed exam 4/24/2017, Backend + Frontend exams 4/9/2018
-- [Jonathon Thompson](https://certification.acquia.com/user/1017464) - Passed exam 4/27/2017
-- [Tyler Fahey](https://certification.acquia.com/user/1647946) - Passed exam 7/3/2017
-- [Adrianna Flores](https://certification.acquia.com/user/1648371) - Passed exam 8/12/2017
-- [Kimberly Kubali](https://certification.acquia.com/user/835896) - Passed exam 9/26/2017
-- [Francesco Tuzzolino (Boes)](https://certification.acquia.com/user/1651641) - Passed exam 03/31/2018
-- [Keith Bremner](https://certification.acquia.com/user/972476) - Passed exam 3/31/2018
-- [Bill Renk](https://certification.acquia.com/user/856371) - Passed exam 7/13/2018
-- [Mehul Shah](https://certification.acquia.com/user/1654391) - Passed exam 10/01/2018
-- [Bruce Yuen](https://certification.acquia.com/user/1655476) - Passed exam 12/26/2018
-- [Tom Metcalfe](https://certification.acquia.com/user/1652801) - Grand Master 09/12/2018
-- [Mouhammed Diop](https://certification.acquia.com/user/689133) - Passed exam 21/12/2018
-- [David Disch](https://certification.acquia.com/user/1655436) - Passed exam 21/12/2018
+- [David Porter](https://certification.acquia.com/user/921060) - Passed exam 2017-04-21
+- [David Stinemetze](https://certification.acquia.com/user/1646806) - Passed exam 2017-04-24, Backend + Frontend exams 2018-04-09
+- [Jonathon Thompson](https://certification.acquia.com/user/1017464) - Passed exam 2017-04-27
+- [Tyler Fahey](https://certification.acquia.com/user/1647946) - Passed exam 2017-07-03
+- [Adrianna Flores](https://certification.acquia.com/user/1648371) - Passed exam 2017-08-12
+- [Kimberly Kubali](https://certification.acquia.com/user/835896) - Passed exam 2017-09-26
+- [Francesco Tuzzolino (Boes)](https://certification.acquia.com/user/1651641) - Passed exam 2018-03-31
+- [Keith Bremner](https://certification.acquia.com/user/972476) - Passed exam 2018-03-31
+- [Bill Renk](https://certification.acquia.com/user/856371) - Passed exam 2018-07-13
+- [Mehul Shah](https://certification.acquia.com/user/1654391) - Passed exam 2018-10-01
+- [Tom Metcalfe](https://certification.acquia.com/user/1652801) - Grand Master 2018-12-09
+- [Mouhammed Diop](https://certification.acquia.com/user/689133) - Passed exam 2018-12-20
+- [David Disch](https://certification.acquia.com/user/1655436) - Passed exam 2018-12-21
+- [Bruce Yuen](https://certification.acquia.com/user/1655476) - Passed exam 2018-12-26
 
 ---
 
