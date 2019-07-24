@@ -27,4 +27,4 @@
 
   ---
 
-  ##### [Next Page >>](3.1-creating-themes.md)
+  ##### [<< Previous Page](../2-site-building/2.9-web-services.md) | [Next Page >>](3.1-creating-themes.md)

@@ -60,4 +60,4 @@
 
   ---
 
-  ##### [Next Page >>](2.1-content-types.md)
+  ##### [<< Previous Page](../1-fundamentals/1.3-git.md) | [Next Page >>](2.1-content-types.md)
