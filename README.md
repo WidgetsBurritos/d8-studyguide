@@ -45,6 +45,7 @@ On the backend, the best thing you can do is just build a module or two. We coul
 - [Avi Schwab](https://certification.acquia.com/user/1656751) - Passed exam 2019-04-11
 - [Nishant kumar](https://certification.acquia.com/user/1658451) Passed exam 2019-08-03
 - [Suraj Kumar paul](https://certification.acquia.com/user/675520) - Passed exam 2019-08-07
+- [Kristiyan Nikolov](https://certification.acquia.com/user/1657941) - Passed exam 2019-08-30
 
 ---
 
