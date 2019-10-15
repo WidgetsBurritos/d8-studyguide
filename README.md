@@ -47,7 +47,7 @@ On the backend, the best thing you can do is just build a module or two. We coul
 - [Suraj Kumar paul](https://certification.acquia.com/user/675520) - Passed exam 2019-08-07
 - [Kristiyan Nikolov](https://certification.acquia.com/user/1657941) - Passed exam 2019-08-30
 - [Hemant Joshi](https://certification.acquia.com/user/1659171) - Passed exam 2019-09-29
-
+- [Sandeep Kumar Gupta](http://certification.acquia.com/user/1657836) - Passed exam 2019-10-13
 ---
 
 [1. Fundamental Web Development Concepts](1-fundamentals)
