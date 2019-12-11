@@ -42,11 +42,17 @@ On the backend, the best thing you can do is just build a module or two. We coul
 - [Mouhammed Diop](https://certification.acquia.com/user/689133) - Passed exam 2018-12-20
 - [David Disch](https://certification.acquia.com/user/1655436) - Passed exam 2018-12-21
 - [Bruce Yuen](https://certification.acquia.com/user/1655476) - Passed exam 2018-12-26
+- [Sushil kumar](https://certification.acquia.com/user/1655751) - Passed exam 2019-01-21
 - [Avi Schwab](https://certification.acquia.com/user/1656751) - Passed exam 2019-04-11
 - [Nishant kumar](https://certification.acquia.com/user/1658451) Passed exam 2019-08-03
 - [Suraj Kumar paul](https://certification.acquia.com/user/675520) - Passed exam 2019-08-07
-- [Sushil kumar](https://certification.acquia.com/user/1655751) - Passed exam 2019-01-21
 - [Ravi Kumawat](https://certification.acquia.com/user/1658696) - Passed exam 2019-08-21
+- [Kristiyan Nikolov](https://certification.acquia.com/user/1657941) - Passed exam 2019-08-30
+- [Hemant Joshi](https://certification.acquia.com/user/1659171) - Passed exam 2019-09-29
+- [Brian Gallagher](https://certification.acquia.com/user/1651736) - Passed exam 2019-10-01
+- [Sandeep Kumar Gupta](http://certification.acquia.com/user/1657836) - Passed exam 2019-10-13
+- [Amol Bhandari](https://certification.acquia.com/user/1147531) - Passed exam 2019-11-24
+- [Vicky Nandode](https://certification.acquia.com/user/1659946) - Passed exam 2019-11-30
 
 ---
 
