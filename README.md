@@ -28,31 +28,31 @@ On the backend, the best thing you can do is just build a module or two. We coul
 *Disclaimer: This is not officially related to the Acquia certification process. These notes are just based on what I thought was important while I studied. Your results may vary.*
 
 ### Study Guide Success Stories
-- [David Porter](https://certification.acquia.com/user/921060) - Passed exam 2017-04-21
-- [David Stinemetze](https://certification.acquia.com/user/1646806) - Passed exam 2017-04-24, Backend + Frontend exams 2018-04-09
-- [Jonathon Thompson](https://certification.acquia.com/user/1017464) - Passed exam 2017-04-27
-- [Tyler Fahey](https://certification.acquia.com/user/1647946) - Passed exam 2017-07-03
-- [Adrianna Flores](https://certification.acquia.com/user/1648371) - Passed exam 2017-08-12
-- [Kimberly Kubali](https://certification.acquia.com/user/835896) - Passed exam 2017-09-26
-- [Francesco Tuzzolino (Boes)](https://certification.acquia.com/user/1651641) - Passed exam 2018-03-31
-- [Keith Bremner](https://certification.acquia.com/user/972476) - Passed exam 2018-03-31
-- [Bill Renk](https://certification.acquia.com/user/856371) - Passed exam 2018-07-13
-- [Mehul Shah](https://certification.acquia.com/user/1654391) - Passed exam 2018-10-01
-- [Tom Metcalfe](https://certification.acquia.com/user/1652801) - Grand Master 2018-12-09
-- [Mouhammed Diop](https://certification.acquia.com/user/689133) - Passed exam 2018-12-20
-- [David Disch](https://certification.acquia.com/user/1655436) - Passed exam 2018-12-21
-- [Bruce Yuen](https://certification.acquia.com/user/1655476) - Passed exam 2018-12-26
-- [Sushil kumar](https://certification.acquia.com/user/1655751) - Passed exam 2019-01-21
-- [Avi Schwab](https://certification.acquia.com/user/1656751) - Passed exam 2019-04-11
-- [Nishant kumar](https://certification.acquia.com/user/1658451) Passed exam 2019-08-03
-- [Suraj Kumar paul](https://certification.acquia.com/user/675520) - Passed exam 2019-08-07
-- [Ravi Kumawat](https://certification.acquia.com/user/1658696) - Passed exam 2019-08-21
-- [Kristiyan Nikolov](https://certification.acquia.com/user/1657941) - Passed exam 2019-08-30
-- [Hemant Joshi](https://certification.acquia.com/user/1659171) - Passed exam 2019-09-29
-- [Brian Gallagher](https://certification.acquia.com/user/1651736) - Passed exam 2019-10-01
-- [Sandeep Kumar Gupta](http://certification.acquia.com/user/1657836) - Passed exam 2019-10-13
-- [Amol Bhandari](https://certification.acquia.com/user/1147531) - Passed exam 2019-11-24
-- [Vicky Nandode](https://certification.acquia.com/user/1659946) - Passed exam 2019-11-30
+- [David Porter](https://certification.acquia.com/user/1978) - Passed exam 2017-04-21
+- [David Stinemetze](https://certification.acquia.com/user/4414) - Passed exam 2017-04-24, Backend + Frontend exams 2018-04-09
+- [Jonathon Thompson](https://certification.acquia.com/user/2580) - Passed exam 2017-04-27
+- [Tyler Fahey](https://certification.acquia.com/user/4647) - Passed exam 2017-07-03
+- [Adrianna Flores](https://certification.acquia.com/user/4694) - Passed exam 2017-08-12
+- [Kimberly Kubali](https://certification.acquia.com/user/1306) - Passed exam 2017-09-26
+- [Francesco Tuzzolino (Boes)](https://certification.acquia.com/user/5647) - Passed exam 2018-03-31
+- [Keith Bremner](https://certification.acquia.com/user/2268) - Passed exam 2018-03-31
+- [Bill Renk](https://certification.acquia.com/user/6073) - Passed exam 2018-07-13
+- [Mehul Shah](https://certification.acquia.com/user/6342) - Passed exam 2018-10-01
+- [Tom Metcalfe](https://certification.acquia.com/user/5954) - Grand Master 2018-12-09
+- [Mouhammed Diop](https://certification.acquia.com/user/375) - Passed exam 2018-12-20
+- [David Disch](https://certification.acquia.com/user/5923) - Passed exam 2018-12-21
+- [Bruce Yuen](https://certification.acquia.com/user/5375) - Passed exam 2018-12-26
+- [Sushil kumar](https://certification.acquia.com/user/6724) - Passed exam 2019-01-21
+- [Avi Schwab](https://certification.acquia.com/user/6900) - Passed exam 2019-04-11
+- [Nishant kumar](https://certification.acquia.com/user/4349) Passed exam 2019-08-03
+- [Suraj Kumar paul](https://certification.acquia.com/user/261) - Passed exam 2019-08-07
+- [Ravi Kumawat](https://certification.acquia.com/user/7453) - Passed exam 2019-08-21
+- [Kristiyan Nikolov](https://certification.acquia.com/user/7273) - Passed exam 2019-08-30
+- [Hemant Joshi](https://certification.acquia.com/user/7759) - Passed exam 2019-09-29
+- [Brian Gallagher](https://certification.acquia.com/user/4543) - Passed exam 2019-10-01
+- [Sandeep Kumar Gupta](https://certification.acquia.com/user/7159) - Passed exam 2019-10-13
+- [Amol Bhandari](https://certification.acquia.com/user/3264) - Passed exam 2019-11-24
+- [Vicky Nandode](https://certification.acquia.com/user/7955) - Passed exam 2019-11-30
 - [Mohammed Abdullah Bamlhes](https://certification.acquia.com/user/5223) - Passed exam 2020-04-22
 
 ---
